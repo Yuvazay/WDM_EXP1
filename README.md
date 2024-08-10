@@ -6,7 +6,7 @@
 1) Open Start -> Programs -> Accessories -> Notepad
 2) Type the following training data set with the help of Notepad for Employee Table.
 
-```
+
 --------------
 Employee Data
 ---------------
@@ -44,7 +44,7 @@ overcast,64.0,65.0,false,yes
 sunny,72.0,95.0,true,no
 sunny,69.0,70.0,false,yes
 rainy,75.0,80.0,false,yes
-```
+
 3) After that the file is saved with .arff file format.
 4) Minimize the arff file and then open Start -> Programs -> weka-3-4.
 5) Click on weka-3-4, then Weka dialog box is displayed on the screen.
@@ -53,6 +53,10 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+
+![image](https://github.com/user-attachments/assets/735c72d6-a373-4ebe-9fb0-49b8ef921003)
+
+![image](https://github.com/user-attachments/assets/a1ca4122-4092-43db-a716-574edf3e293b)
 
 
 
@@ -76,6 +80,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/f1f14c03-8ff8-42b1-ab08-ac12aae2f419)
+
+
 ### 2) Remove -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -92,6 +99,9 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 
+![image](https://github.com/user-attachments/assets/6ca218cd-adf3-4e24-9055-ce8a281d4641)
+
+
 ### Normalize -> Pre-Processing Technique:
 
 1) Start -> Programs -> Weka-3-4 -> Weka-3-4
@@ -107,5 +117,9 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+
+![image](https://github.com/user-attachments/assets/f3846770-5fa4-4325-b064-1772bae4bb30)
+
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
